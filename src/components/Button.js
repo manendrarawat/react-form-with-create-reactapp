@@ -1,5 +1,9 @@
 import React from 'react';
 
+/**
+ * 
+ * Button component
+ */
 const Button = (props) => {
     return (
         <div>
